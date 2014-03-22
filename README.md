@@ -11,5 +11,5 @@ Usage: detect.py [options]
 Options:
   -h, --help  show this help message and exit
   -d PATH     Directory to inspect
-  -v          Verbose output (list file/line)
+  -v          Verbose output (list file/line) 
 
